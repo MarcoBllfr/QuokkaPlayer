@@ -6,7 +6,7 @@ import { AppBar, Avatar } from '@skeletonlabs/skeleton-svelte';
 
 <AppBar >
   {#snippet lead()}
-    <Avatar src="https://i.pravatar.cc/150?img=48" name="skeleton"  />
+    <Avatar src="src/lib/assets/logo.png" name="skeleton"  />
   {/snippet}
   {#snippet trail()}
 	    <ThemeSwitch />

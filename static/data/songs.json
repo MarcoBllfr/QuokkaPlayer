@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Dreaming in Code",
+    "artist": "Alex Doe",
+    "url": "/music/dreaming_in_code.mp3",
+    "cover": "/music/dreaming_in_code.jpg",
+    "duration": "3:45"
+  },
+  {
+    "id": 2,
+    "title": "Ocean Waves",
+    "artist": "Lia Sun",
+    "url": "/music/ocean_waves.mp3",
+    "cover": "/music/ocean_waves.jpg",
+    "duration": "4:12"
+  },
+  {
+    "id": 3,
+    "title": "Neon Nights",
+    "artist": "Kai Lin",
+    "url": "/music/neon_nights.mp3",
+    "cover": "/music/neon_nights.jpg",
+    "duration": "5:03"
+  },
+  {
+    "id": 4,
+    "title": "Silent Forest",
+    "artist": "Maya V.",
+    "url": "/music/silent_forest.mp3",
+    "cover": "/music/silent_forest.jpg",
+    "duration": "3:28"
+  },
+  {
+    "id": 5,
+    "title": "Starlight Journey",
+    "artist": "Eli Moon",
+    "url": "/music/starlight_journey.mp3",
+    "cover": "/music/starlight_journey.jpg",
+    "duration": "4:50"
+  }
+]
